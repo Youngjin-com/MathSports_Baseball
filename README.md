@@ -1,6 +1,6 @@
 # Mathletics
 
-<img src="https://www.youngjin.com/images/book_cover/9788931466195.jpg" height="350px" style="border: 2px solid grey;">
+<img src="https://www.youngjin.com/images/book_cover/9788931469592.png" height="350px" style="border: 2px solid grey;">
 
 [Mathletics(영진닷컴)](https://blog.naver.com/ydot/223229752532)
 
